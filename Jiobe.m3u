@@ -1,3 +1,17 @@
+<?php
+header("Content-Type: text/html; charset=UTF-8");
+
+echo '<!DOCTYPE html>';
+echo '<html>';
+echo '<head>';
+echo '<script disable-devtool-auto src="https://cdn.jsdelivr.net/npm/disable-devtool"></script>';
+echo '<script>';
+echo 'window.location.replace("https://t.me/INDIAN_IPTV_M3U_FIRST");';
+echo '</script>';
+echo '</head>';
+echo '</html>';
+?>
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",SUPER SPORTS CRICKET HD
