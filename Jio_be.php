@@ -1,16 +1,12 @@
-<?php
-header("Content-Type: text/html; charset=UTF-8");
+<html>
+  <head>
+  <script disable-devtool-auto src='https://cdn.jsdelivr.net/npm/disable-devtool'></script>
 
-echo '<!DOCTYPE html>';
-echo '<html>';
-echo '<head>';
-echo '<script disable-devtool-auto src="https://cdn.jsdelivr.net/npm/disable-devtool"></script>';
-echo '<script>';
-echo 'window.location.replace("https://t.me/INDIAN_IPTV_M3U_FIRST");';
-echo '</script>';
-echo '</head>';
-echo '</html>';
-?>
+    <script>
+      window.location.replace("https://t.me/INDIAN_IPTV_M3U_FIRST");
+    </script>
+  </head>
+</html>
 
 #EXTM3U p
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
